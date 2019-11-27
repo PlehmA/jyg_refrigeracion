@@ -1,11 +1,17 @@
 <template>
 <div style="height: 900px">
-  <h1>Contact</h1>
+    <v-container>
+  <ContactForm class="pa-5 ma-5"/>
+    </v-container>
 </div>
 </template>
 
 <script>
+import ContactForm from './ContactForm'
 export default {
-  name: 'Contact'
+  name: 'Contact',
+  components: {
+    ContactForm
+  }
 }
 </script>

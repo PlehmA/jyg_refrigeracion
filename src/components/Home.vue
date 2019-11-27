@@ -72,8 +72,8 @@
                 <section>
                     <v-parallax src="../assets/images/section.jpg" height="380">
                         <v-layout column align-center justify-center>
-                            <div class="headline white--text mb-4 text-center">Web development has never been easier</div>
-                            <em>Kick-start your application today</em>
+                            <div class="headline white--text mb-4 text-center">No te quedes con la duda ¡Preguntanos lo que queres saber!.</div>
+                            <em>Mandanos un mensaje</em>
                             <v-btn class="mt-12" color="brown lighten-3" dark large href="/pre-made-themes">
                                 Contactanos
                             </v-btn>
@@ -87,11 +87,10 @@
                             <v-flex xs12 sm4>
                                 <v-card flat class="transparent">
                                     <v-card-title primary-title class="layout justify-center">
-                                        <div class="headline">Company info</div>
+                                        <div class="headline">Nuestra compañía</div>
                                     </v-card-title>
                                     <v-card-text>
-                                        Cras facilisis mi vitae nunc lobortis pharetra. Nulla volutpat tincidunt ornare. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam in aliquet odio. Aliquam eu est vitae tellus bibendum tincidunt. Suspendisse
-                                        potenti.
+                                        Somos una empresa con un trayecto intachable. Más de 15 años en el rubro y más de mil sitios visitados. Familias, Empresas y PYMES con seriedad y respeto unico hacia nuestro cliente.
                                     </v-card-text>
                                 </v-card>
                             </v-flex>
