@@ -1,5 +1,5 @@
 <template>
-<div style="height: 900px">
+<div style="height: 700px">
     <v-container>
   <ContactForm class="pa-5 ma-5"/>
     </v-container>
@@ -15,3 +15,9 @@ export default {
   }
 }
 </script>
+
+<style scoped>
+header{
+    max-height: 56px;
+}
+</style>
